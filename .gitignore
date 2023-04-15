@@ -1,0 +1,10 @@
+*.nc
+*.pdf
+*.npz
+*.bin
+*.exe
+*.out
+*.txt
+*.png
+runscript.sh
+__pycache__/
